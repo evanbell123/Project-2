@@ -1,0 +1,6 @@
+American Motorist, 12345
+Fortune, 54321
+Modern Industry, 13579
+Science Digest, 97531
+Rural Sociology, 02468
+Industrial Psychology, 86420
